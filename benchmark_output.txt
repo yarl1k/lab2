@@ -1,0 +1,4 @@
+Transpose time: 0.00112383 s
+Multiplication time: 0.934312 s
+Total time: 0.935436 s
+Checksum: 3.02319e+06
